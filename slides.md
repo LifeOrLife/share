@@ -221,17 +221,3 @@ transition: fade-in
 transition: fade-in
 layout: End
 ---
-
----
-layout: two-cols-header
----
-
-# hader
-<template v-slot:left>
-
-#left
-</template>
-<template v-slot:right>
-
-#right
-</template>

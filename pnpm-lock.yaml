@@ -16,6 +16,9 @@ dependencies:
   sass:
     specifier: ^1.64.2
     version: 1.64.2
+  vue:
+    specifier: ^3.3.4
+    version: 3.3.4
 
 packages:
 
